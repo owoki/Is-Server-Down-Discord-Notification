@@ -1,8 +1,11 @@
 # Is-Server-Down-Discord-Notification
 
 Check if your server is on or off for the time interval you want. Discord instant notification script.
+
 ![image](https://user-images.githubusercontent.com/38614710/106111494-1fe6bc00-615d-11eb-94b2-95ea46aa111d.png)
-![image](https://user-images.githubusercontent.com/38614710/106111610-4c023d00-615d-11eb-9b43-9de41eac4ebc.png)
+
+![image](https://user-images.githubusercontent.com/38614710/106111858-a00d2180-615d-11eb-9e98-7c6b50bdffe0.png)
+
 
 ### Installation
 
