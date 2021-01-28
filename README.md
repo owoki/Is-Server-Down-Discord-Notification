@@ -12,6 +12,8 @@ Then set config.json and start main.py
 
 Install screen package for linux
 
+Then type
+
 ```
 screen -S downbot
 python3 main.py
@@ -19,7 +21,7 @@ python3 main.py
 
 Then press ctrl+a+d
 
-If you want check logs
+If you want check logs , type
 
 ```
 screen -r downbot
