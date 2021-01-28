@@ -35,7 +35,7 @@ while True:
             loop.run_until_complete(sendmsg(config,config["serverips"][i]))
             print("[-] Server is down !!!! :",config["serverips"][i])
         else:
-            print("[+]Server is up :",config["serverips"][i])
+            print("[+] Server is up :",config["serverips"][i])
         
     sleep(int(config["looptime"]))
 
