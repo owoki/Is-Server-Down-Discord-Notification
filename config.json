@@ -1,0 +1,13 @@
+{
+
+    "serverips": [
+        "185.254.922.200",
+        "185.212.92.200",
+        "185.254.92.200"
+    ],
+
+    "webhookurl": "https://discord.com/api/webhooks/804082884285300787/C0Pe6DnR1SK1g8BBe_2sk6y95-gMpgoMswuGCEtejTOBRoinykF9q7jEPDd3DdODBO0v",
+    "looptime": "2",
+    "downmsg": "Your server is down !!"
+
+}
